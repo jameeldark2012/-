@@ -1,0 +1,9 @@
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\bin\Debug\BOT2.exe.config
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\bin\Debug\BOT2.exe
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\bin\Debug\BOT2.pdb
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\obj\Debug\BOT2.csprojAssemblyReference.cache
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\obj\Debug\BOT2.Form1.resources
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\obj\Debug\BOT2.Properties.Resources.resources
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\obj\Debug\BOT2.csproj.GenerateResource.cache
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\obj\Debug\BOT2.exe
+C:\Users\DarknessLore\source\repos\BOT2\BOT2\obj\Debug\BOT2.pdb
